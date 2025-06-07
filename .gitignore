@@ -1,0 +1,7 @@
+__pycache__
+.git
+HAM10000_images_part_1.zip
+HAM10000_images_part_2.zip
+X_train_cnn.pkl
+X_test_cnn.pkl
+x_train.pkl
